@@ -1,6 +1,6 @@
 🪙 Cryptocurrency Market Dashboard
 
-! [Dashboard Preview](Dashboard_Snapshot.png).
+![Dashboard Preview](Dashboard_Snapshot.png).
 
 📝 Overview
 This Power BI project provides a comprehensive analysis of the cryptocurrency market from April 2013 to July 2021. The dashboard is designed to help investors and enthusiasts visualize market trends, track volatility, and compare the performance of top cryptocurrencies (Bitcoin, Ethereum, Tether, BNB, and Cardano) over time.
